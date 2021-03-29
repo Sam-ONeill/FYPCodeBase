@@ -11,15 +11,12 @@ To run this code follow the following steps
 1. clone the Git directory https://github.com/THISGUY12/FYPCodeBase.git
 2. open terminal
 3. cd into cloned file
+dev contains the codebase for this project
 
-in terminal enter 
-	4. cd dev (dev contains the codebase for this project) 
-	5. npm install
-	6. react-native start
-	
-To run this code on a computer you must have a emulator setup or a physical device setup to emulate react native code. 
-The code can be veiwed without running react-native start.
-A pre compiled apk is included in the Git and within the supporting documention file.
+# To run the application
+This application can be run by installing the provided apk "app-release.apk".
+Instructions to install this app on an android device are below.
+
 
 # Instructions to install and run the application
 Currently this build is for Android phones version 6 and above
@@ -28,7 +25,7 @@ Currently this build is for Android phones version 6 and above
 2. In your settings make sure that you can install apps from external sources
 3. Install the app 
 
-it will be called dev with a green icon
+it will be labelled dev with a green icon
 
 
 # Testing contains the results from the user testing surveys
