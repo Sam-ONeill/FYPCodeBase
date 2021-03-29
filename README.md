@@ -32,3 +32,4 @@ it will be called dev with a green icon
 
 
 # Testing contains the results from the user testing surveys
+The testing documentation is included in the supporting documentation folder on mooodle
